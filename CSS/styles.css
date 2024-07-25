@@ -59,7 +59,7 @@ top:0vw;
 transition: margin-left .5s;
 }
 .navbar p  {
-display:inline;
+display:block;
 }
 
 
